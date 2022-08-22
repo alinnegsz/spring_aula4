@@ -14,7 +14,7 @@
 <script>
    export default {
     name: 'PerfilPage',
-    props: ["idPerfil","perfil", "img"]
+    props: ["idPerfil","perfil", "img"],
    }
 </script>
 
